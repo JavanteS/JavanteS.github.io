@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "This is it"
+date:       2020-08-17 21:59:49 +0000
+permalink:  this_is_it
+---
+
+
+I've graduated!
+
+![](https://media.giphy.com/media/5jT0jaNDsM6Ik7X9yq/giphy.gif)
+
+I've learned a lot in the past 5 months and I'm glad I took this career path. Before I was worried that I couldn't hang with the big boys but I know I can now. I just wish it didn't take me so long to figure out this is what I wanted to do. Since 2011, I've been wrestling with the idea that this path may/may not be for me and I would code in my free time. My lack of confidence pushed me away from things I wanted to do but going through this course has improved it a lot. It is crazy how we went from  ``hello = "Hello Word"`` in ruby to building complex classes for applications in 5 months. Five months may seem like a while but it flew by and I'm now I'm at the end. The journey isn't over as I still got to connect with my coach to job seek. I used to get so nervous thinking about my future but not so much now. 
